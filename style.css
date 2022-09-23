@@ -1,0 +1,13 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color:royalblue;
+
+}
+h1{
+    color: antiquewhite;
+    background-color: brown;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
